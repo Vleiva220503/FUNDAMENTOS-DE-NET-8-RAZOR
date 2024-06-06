@@ -29,7 +29,7 @@
 //  Instalación
 // 1. Clonar el repositorio:
 //    bash
-//  
+//    https://github.com/Vleiva220503/FUNDAMENTOS-DE-NET-8-RAZOR.git
 //    cd aspnetcore-crud-razorpages
 //    
 // 2. Abrir la solución en Visual Studio.
